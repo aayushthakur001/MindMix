@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995161999163",
+    "project_id": "card-guess",
+    "storage_bucket": "card-guess.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995161999163:android:c520c9630c5c3b1b0c991e",
+        "android_client_info": {
+          "package_name": "com.example.cardguess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHeH-omVBuRMcGG17uCztTYUsj4lCcdOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

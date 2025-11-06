@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"card-guess","appId":"1:995161999163:android:c520c9630c5c3b1b0c991e","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"card-guess","configurations":{"android":"1:995161999163:android:c520c9630c5c3b1b0c991e","web":"1:995161999163:web:64959592bd4db85b0c991e"}}}}}}
