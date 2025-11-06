@@ -119,15 +119,15 @@
 
 | Screen | Description |
 |--------|--------------|
-| ![Login](https://dummyimage.com/300x600/000/fff&text=Login+Screen) | Gradient-based login/signup screen |
-| ![Game](https://dummyimage.com/300x600/222/fff&text=Game+Screen) | Main Color Guess game UI |
-| ![Mix](https://dummyimage.com/300x600/555/fff&text=Mixed+Cards) | “Mix” state showing hidden cards |
-| ![Profile](https://dummyimage.com/300x600/111/fff&text=Profile+Page) | Firebase-backed profile page |
-| ![Firebase](https://dummyimage.com/300x600/444/fff&text=Firestore+View) | Firestore database view |
+| ![Login](screenshot/signup.png) | Gradient-based signup screen |
+| ![Login](screenshot/login.png) | Gradient-based login screen |
+| ![Game](screenshot/home.png) | Main Color Guess game UI |
+| ![Mix](screenshot/mixing.png) | “Mix” state showing hidden cards |
+| ![Profile](screenshot/sidemenue.png) | side menue bar page |
+| ![Profile](screenshot/profile.png) | Firebase-backed profile page |
+| ![Firebase](screenshot/firestore.png) | Firestore database view |
 
-*(for screenshots check-out the screenshot folder)*
-
----
+*(for screenshots check out the `screenshots` folder)*
 
 ## 🔐 Firebase Integration Details
 
